@@ -16,37 +16,37 @@ species.information.csv - csv. file containing data, see description of each col
 
 metadata.xlxs: metadata (readme file) with the same information as described below
 
-Species.code: individual code for each species based on the scientific name
+-   Species.code: individual code for each species based on the scientific name
 
-Species: species name
+-   Species: species name
 
-Family: Species family
+-   Family: Species family
 
-Mean.absolute.growth.rate: mean species growth rate based on diameter (mm) in time 1 minus diameter in time 0, divided by census interval (in years) \<-\> (dbh1-dbh0)/time
+-   Mean.absolute.growth.rate: mean species growth rate based on diameter (mm) in time 1 minus diameter in time 0, divided by census interval (in years) \<-\> (dbh1-dbh0)/time
 
-SD.growth.rate: standard deviation from the mean absolute growth rates
+-   SD.growth.rate: standard deviation from the mean absolute growth rates
 
-SLA: specific leaf area, in cm2/g
+-   SLA: specific leaf area, in cm2/g
 
-LA: leaf area, in cm2
+-   LA: leaf area, in cm2
 
-LDMC: leaf dry-matter content, in mg/g
+-   LDMC: leaf dry-matter content, in mg/g
 
-LNC: leaf nitrogen content, in %
+-   LNC: leaf nitrogen content, in %
 
-LPC: leaf phosphorus content, in %
+-   LPC: leaf phosphorus content, in %
 
-WD: wood density, in g/cm3
+-   WD: wood density, in g/cm3
 
-Height: maximum height per species within the sampled trees, in meters
+-   Height: maximum height per species within the sampled trees, in meters
 
-Number.of.stems: number of stems per species
+-   Number.of.stems: number of stems per species
 
-Median.height: species median height within the sampled trees, in meters
+-   Median.height: species median height within the sampled trees, in meters
 
-Category: canopy or understory classification
+-   Category: canopy or understory classification
 
-Relative.Growth.Rate: species relative growth rate, based on the following equation: (dbht1/dbhto)/t
+-   Relative.Growth.Rate: species relative growth rate, based on the following equation: (dbht1/dbhto)/t
 
 The `results` folder contains:
 
