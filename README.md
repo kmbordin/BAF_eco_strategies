@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13945150.svg)](https://doi.org/10.5281/zenodo.13945150)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14910785.svg)](https://doi.org/10.5281/zenodo.14910785)
 
 This repository contains the data and codes from the following manuscript:
 
