@@ -2,7 +2,7 @@
 
 This repository contains the data and codes from the following manuscript:
 
-**Distinct ecological strategies predict tree growth across the subtropical Brazilian Atlantic Forest**
+**Tall stature and small leaves: ecological strategies that enhance tree growth across the subtropical Brazilian Atlantic Forest**
 
 Repository content:
 
