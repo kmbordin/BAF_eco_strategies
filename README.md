@@ -13,12 +13,12 @@ Scripts to perform all the analyses from the manuscript\
 
 The `data` folder contains:
 
-Functional trait data and relative growth rates for all the 123 species\
+Functional trait data and relative growth rates for all the 121 species\
 species.information.csv - csv. file containing data, see description of each column below
 
-metadata.xlxs: metadata (readme file) with the same information as described below
+plot.rtf: plot and census information
 
--   Species.code: individual code for each species based on the scientific name
+metadata.xlxs: metadata (readme file) with the same information as described below
 
 -   Species: species name
 
@@ -52,10 +52,6 @@ metadata.xlxs: metadata (readme file) with the same information as described bel
 
 The `results` folder contains:
 
-*results.txt:* results from the models fitted
-
-*model.selection.txt*: results from the model selection
-
-*PC1 a PC3.png*: PCAs diagrams
+*principal.components.png*: PCAs diagrams
 
 The code was developed and tested using the R statistical software, R version 4.2.2 (R Development Core Team, 2022).
